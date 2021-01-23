@@ -29,9 +29,9 @@ The user should be able to:
 
 #### Final Product
 
-![screenshot1](https://github.com/felipesqf/EmployeeDirectory/blob/main/public/assets/empdir1.png)
-![screenshot2](https://github.com/felipesqf/EmployeeDirectory/blob/main/public/assets/empdir2.png)
-![screenshot3](https://github.com/felipesqf/EmployeeDirectory/blob/main/public/assets/empdir3.png)
+![screenshot1](https://github.com/felipesqf/EmployeeDirectory/blob/master/public/assets/empdir1.png)
+![screenshot2](https://github.com/felipesqf/EmployeeDirectory/blob/master/public/assets/empdir2.png)
+![screenshot3](https://github.com/felipesqf/EmployeeDirectory/blob/master/public/assets/empdir3.png)
 
 
 ### Licence
