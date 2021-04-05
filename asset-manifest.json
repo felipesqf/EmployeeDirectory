@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/EmployeeDirectory/static/css/main.5f7dfe19.chunk.css",
-    "main.js": "/EmployeeDirectory/static/js/main.afaae4c0.chunk.js",
-    "main.js.map": "/EmployeeDirectory/static/js/main.afaae4c0.chunk.js.map",
-    "runtime-main.js": "/EmployeeDirectory/static/js/runtime-main.fa9e9a40.js",
-    "runtime-main.js.map": "/EmployeeDirectory/static/js/runtime-main.fa9e9a40.js.map",
-    "static/css/2.ae9f1eb3.chunk.css": "/EmployeeDirectory/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.0e520d2a.chunk.js": "/EmployeeDirectory/static/js/2.0e520d2a.chunk.js",
-    "static/js/2.0e520d2a.chunk.js.map": "/EmployeeDirectory/static/js/2.0e520d2a.chunk.js.map",
-    "index.html": "/EmployeeDirectory/index.html",
-    "static/css/2.ae9f1eb3.chunk.css.map": "/EmployeeDirectory/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.5f7dfe19.chunk.css.map": "/EmployeeDirectory/static/css/main.5f7dfe19.chunk.css.map",
-    "static/js/2.0e520d2a.chunk.js.LICENSE.txt": "/EmployeeDirectory/static/js/2.0e520d2a.chunk.js.LICENSE.txt"
+    "main.css": "/ResponsiveContacts/static/css/main.975b22ff.chunk.css",
+    "main.js": "/ResponsiveContacts/static/js/main.09455900.chunk.js",
+    "main.js.map": "/ResponsiveContacts/static/js/main.09455900.chunk.js.map",
+    "runtime-main.js": "/ResponsiveContacts/static/js/runtime-main.ac6d6a28.js",
+    "runtime-main.js.map": "/ResponsiveContacts/static/js/runtime-main.ac6d6a28.js.map",
+    "static/css/2.491e0953.chunk.css": "/ResponsiveContacts/static/css/2.491e0953.chunk.css",
+    "static/js/2.8c3519ea.chunk.js": "/ResponsiveContacts/static/js/2.8c3519ea.chunk.js",
+    "static/js/2.8c3519ea.chunk.js.map": "/ResponsiveContacts/static/js/2.8c3519ea.chunk.js.map",
+    "index.html": "/ResponsiveContacts/index.html",
+    "static/css/2.491e0953.chunk.css.map": "/ResponsiveContacts/static/css/2.491e0953.chunk.css.map",
+    "static/css/main.975b22ff.chunk.css.map": "/ResponsiveContacts/static/css/main.975b22ff.chunk.css.map",
+    "static/js/2.8c3519ea.chunk.js.LICENSE.txt": "/ResponsiveContacts/static/js/2.8c3519ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa9e9a40.js",
-    "static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.0e520d2a.chunk.js",
-    "static/css/main.5f7dfe19.chunk.css",
-    "static/js/main.afaae4c0.chunk.js"
+    "static/js/runtime-main.ac6d6a28.js",
+    "static/css/2.491e0953.chunk.css",
+    "static/js/2.8c3519ea.chunk.js",
+    "static/css/main.975b22ff.chunk.css",
+    "static/js/main.09455900.chunk.js"
   ]
 }
